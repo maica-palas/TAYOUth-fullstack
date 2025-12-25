@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/x-data-grid": "^8.4.0",
+    "ag-grid-community": "^33.3.0",
+    "ag-grid-react": "^33.3.0",
+    "react-router-dom": "^7.6.0"
+  }
+}
